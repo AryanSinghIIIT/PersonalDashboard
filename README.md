@@ -2,6 +2,10 @@
 
 
 
+https://github.com/AryanSinghIIIT/PersonalDashboard/assets/96579866/d3ad46f3-fd92-41c9-8196-fdc65027860c
+
+
+
 # AngularPersonalDashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
